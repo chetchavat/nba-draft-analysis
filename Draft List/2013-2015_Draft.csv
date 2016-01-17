@@ -1,0 +1,181 @@
+Rk,Year,Lg,Rd,Pk,Tm,Player,Age,Pos,Born,College,From,To,G,MP,PTS,TRB,AST,STL,BLK,FG%,2P%,3P%,FT%,WS,WS/48
+1,2013,NBA,1,22,BRK,Mason Plumlee,23.12,F,,Duke University,2014,2016,192,21.2,8.4,5.9,1.3,0.8,0.8,0.581,0.585,0,0.563,12,0.142
+2,2013,NBA,1,27,DEN,Rudy Gobert,21.006,C,,,2014,2016,144,21.8,6.6,7.6,1,0.6,1.9,0.588,0.59,0,0.6,11.4,0.174
+3,2013,NBA,1,12,OKC,Steven Adams,19.347,C,,University of Pittsburgh,2014,2016,189,20.5,5.6,5.8,0.7,0.5,1,0.546,0.548,0,0.552,10,0.123
+4,2013,NBA,1,15,MIL,Giannis Antetokounmpo,18.208,F-G,,,2014,2016,195,29.1,10.8,5.8,2.3,0.9,1,0.472,0.501,0.28,0.73,9.4,0.08
+5,2013,NBA,1,4,CHA,Cody Zeller,20.27,F-C,,Indiana University,2014,2016,179,21,7.1,5.2,1.2,0.6,0.6,0.458,0.462,0.091,0.742,9.2,0.117
+6,2013,NBA,1,21,UTA,Gorgui Dieng,23.166,C,,University of Louisville,2014,2016,171,23,7.7,6.7,1.4,0.8,1.2,0.507,0.508,0.375,0.762,9,0.109
+7,2013,NBA,1,13,DAL,Kelly Olynyk,22.075,F,,Gonzaga University,2014,2016,170,21,9.4,4.8,1.6,0.8,0.5,0.466,0.511,0.36,0.728,8.5,0.114
+8,2013,NBA,1,8,DET,Kentavious Caldwell-Pope,20.134,G,,University of Georgia,2014,2016,199,27.9,10.2,2.7,1.2,1.1,0.2,0.4,0.452,0.331,0.749,7.7,0.067
+9,2013,NBA,1,2,ORL,Victor Oladipo,21.059,G,,Indiana University,2014,2016,188,32.6,15.3,4.3,4.1,1.6,0.4,0.423,0.453,0.332,0.801,6.4,0.05
+10,2013,NBA,1,10,POR,C.J. McCollum,21.287,G,,Lehigh University,2014,2016,138,20.3,10.3,2,1.9,0.7,0.1,0.435,0.459,0.393,0.749,5.1,0.088
+11,2013,NBA,1,3,WAS,Otto Porter,20.029,F,,Georgetown University,2014,2016,143,19.5,6.5,3.2,1,0.7,0.3,0.446,0.503,0.311,0.753,5,0.087
+12,2013,NBA,1,9,MIN,Trey Burke,20.232,G,,University of Michigan,2014,2016,183,29.7,12.7,2.7,4.5,0.7,0.1,0.384,0.418,0.329,0.812,4.9,0.043
+13,2013,NBA,1,6,NOH,Nerlens Noel,19.083,F-C,,University of Kentucky,2015,2016,109,30.4,10.1,8.2,1.6,1.7,1.7,0.476,0.476,,0.594,4.8,0.07
+14,2013,NBA,1,20,CHI,Tony Snell,21.235,G-F,,University of New Mexico,2014,2016,182,18.5,5.4,2.3,0.9,0.4,0.2,0.4,0.445,0.359,0.802,4.7,0.067
+15,2013,NBA,1,5,PHO,Alex Len,20.016,C,,University of Maryland,2014,2016,150,17.3,5.1,5.1,0.4,0.4,1.1,0.481,0.482,0.333,0.694,4.6,0.084
+16,2013,NBA,1,26,MIN,Andre Roberson,21.211,G-F,,University of Colorado,2014,2016,144,17.4,3.4,3.4,0.8,0.7,0.4,0.468,0.593,0.252,0.557,4.6,0.089
+17,2013,NBA,1,23,IND,Solomon Hill,22.107,F,,University of Arizona,2014,2016,128,21.8,6.5,3,1.6,0.6,0.2,0.398,0.443,0.309,0.83,4.3,0.073
+18,2014,NBA,1,23,UTA,Rodney Hood,21.254,G-F,,Duke University,2015,2016,85,24.9,10.4,2.6,2.1,0.8,0.3,0.413,0.465,0.349,0.817,4.3,0.097
+19,2013,NBA,2,39,POR,Jeff Withey,23.118,C,,University of Kansas,2014,2016,124,11.3,3.5,2.8,0.4,0.3,0.9,0.535,0.537,0,0.698,4.2,0.145
+20,2013,NBA,1,24,NYK,Tim Hardaway,21.108,G,,University of Michigan,2014,2016,158,23.1,10.4,1.8,1.3,0.4,0.1,0.407,0.463,0.352,0.815,4,0.052
+21,2013,NBA,1,14,UTA,Shabazz Muhammad,20.231,G-F,,University of California Los Angeles,2014,2016,113,16.5,8.9,2.8,0.6,0.3,0.1,0.485,0.508,0.364,0.722,3.8,0.099
+22,2013,NBA,1,7,SAC,Ben McLemore,20.141,G,,University of Kansas,2014,2016,201,28.1,9.9,2.8,1.3,0.8,0.2,0.416,0.472,0.345,0.797,3.7,0.031
+23,2014,NBA,1,10,PHI,Elfrid Payton,20.129,G,,University of Louisiana at Lafayette,2015,2016,116,30.1,9.5,4.1,6.3,1.6,0.2,0.423,0.434,0.286,0.579,3.6,0.049
+24,2014,NBA,1,6,BOS,Marcus Smart,20.117,G,,Oklahoma State University,2015,2016,83,26.8,7.9,3.4,3,1.5,0.3,0.355,0.406,0.311,0.657,3.5,0.075
+25,2014,NBA,2,46,WAS,Jordan Clarkson,22.024,G,,University of Missouri,2015,2016,96,27.8,13.1,3.4,3.1,1,0.2,0.447,0.48,0.326,0.817,3.5,0.063
+26,2015,NBA,1,1,MIN,Karl-Anthony Towns,19.227,F-C,,University of Kentucky,2016,2016,38,29,15.9,9.2,1.2,0.6,1.8,0.533,0.545,0.345,0.848,3.5,0.151
+27,2014,NBA,1,1,CLE,Andrew Wiggins,19.128,F-G,,University of Kansas,2015,2016,119,35.8,18.1,4.3,2,1,0.6,0.436,0.458,0.283,0.746,3.4,0.039
+28,2013,NBA,2,31,CLE,Allen Crabbe,21.084,G-F,,University of California,2014,2016,106,17.2,6.1,1.7,0.8,0.5,0.2,0.447,0.511,0.368,0.811,3.3,0.087
+29,2013,NBA,2,48,LAL,Ryan Kelly,22.085,F,,Duke University,2014,2016,122,21.9,7.1,3.3,1.6,0.5,0.6,0.39,0.428,0.333,0.818,3.3,0.059
+30,2014,NBA,1,4,ORL,Aaron Gordon,18.288,F,,University of Arizona,2015,2016,84,18,6,4.2,0.9,0.5,0.6,0.465,0.513,0.309,0.709,3.3,0.105
+31,2014,NBA,1,14,PHO,T.J. Warren,20.299,F,,North Carolina State University,2015,2016,78,19.1,8.7,2.7,0.7,0.6,0.3,0.513,0.538,0.354,0.746,3.2,0.103
+32,2013,NBA,1,17,ATL,Dennis Schroder,19.29,G,,,2014,2016,162,18.1,8.2,2,3.5,0.6,0,0.417,0.448,0.325,0.795,3,0.05
+33,2013,NBA,1,11,PHI,Michael Carter-Williams,21.266,G,,Syracuse University,2014,2016,170,32.9,15,5.6,6.3,1.7,0.6,0.41,0.44,0.257,0.693,2.9,0.025
+34,2014,NBA,2,45,CHH,Dwight Powell,22.347,F,,Stanford University,2015,2016,65,13.6,5.5,3.8,0.6,0.5,0.4,0.5,0.52,0.188,0.724,2.9,0.157
+35,2013,NBA,1,18,ATL,Shane Larkin,20.273,G,,University of Miami,2014,2016,157,19.3,5.3,1.9,2.7,1,0.1,0.429,0.465,0.328,0.75,2.6,0.042
+36,2013,NBA,2,44,DAL,Mike Muscala,22.002,F-C,,Bucknell University,2014,2016,86,12.1,4.4,2.7,0.6,0.3,0.5,0.495,0.529,0.333,0.895,2.5,0.116
+37,2014,NBA,1,2,MIL,Jabari Parker,19.108,F,,Duke University,2015,2016,58,27.8,11.5,4.8,1.4,0.9,0.3,0.477,0.488,0.19,0.762,2.5,0.075
+38,2014,NBA,1,25,HOU,Clint Capela,20.044,C,,,2015,2016,49,18,6.3,6.1,0.6,0.8,1.1,0.574,0.574,,0.395,2.5,0.134
+39,2015,NBA,1,4,NYK,Kristaps Porzingis,19.332,F-C,,,2016,2016,39,27.8,13.6,8,1.1,0.7,2,0.424,0.452,0.336,0.867,2.5,0.111
+40,2014,NBA,2,41,DEN,Nikola Jokic,19.132,C,,,2016,2016,36,18.8,8.6,5.5,1.6,0.7,0.5,0.543,0.56,0.381,0.779,2.3,0.164
+41,2013,NBA,2,36,SAC,Ray McCallum,22.021,G,,University of Detroit Mercy,2014,2016,129,19.2,6.3,2.1,2.5,0.6,0.2,0.415,0.441,0.324,0.714,2.1,0.041
+42,2013,NBA,2,34,HOU,Isaiah Canaan,22.043,G,,Murray State University,2014,2016,108,20.2,8.7,1.8,1.8,0.6,0.1,0.365,0.38,0.357,0.794,2,0.044
+43,2013,NBA,2,50,ATL,James Ennis,23.002,F,,California State University Long Beach,2015,2016,71,15.3,4.5,2.5,0.7,0.4,0.3,0.407,0.455,0.333,0.824,2,0.091
+44,2014,NBA,1,16,CHI,Jusuf Nurkic,19.312,C,,,2015,2016,67,17.6,7,6.2,0.8,0.8,1.1,0.437,0.439,0,0.622,1.7,0.069
+45,2014,NBA,1,30,SAS,Kyle Anderson,20.284,G-F,,University of California Los Angeles,2015,2016,68,11.5,2.9,2.2,0.9,0.4,0.3,0.426,0.441,0.318,0.667,1.6,0.1
+46,2014,NBA,2,39,PHI,Jerami Grant,20.111,F,,Syracuse University,2015,2016,105,23,7.3,3.6,1.2,0.6,1.2,0.384,0.444,0.276,0.626,1.6,0.033
+47,2015,NBA,1,27,LAL,Larry Nance Jr.,22.18,F,,University of Wyoming,2016,2016,34,20.6,6.1,5.1,0.6,0.7,0.3,0.54,0.544,0.333,0.714,1.3,0.089
+48,2014,NBA,1,21,OKC,Mitch McGary,22.025,F,,University of Michigan,2015,2016,41,12.8,5.1,4.3,0.4,0.4,0.4,0.526,0.532,0,0.609,1.2,0.111
+49,2015,NBA,2,37,PHI,Richaun Holmes,21.258,F,,Bowling Green State University,2016,2016,28,14.1,6.3,2.3,0.6,0.4,0.8,0.587,0.688,0.2,0.7,1.2,0.147
+50,2014,NBA,1,9,CHH,Noah Vonleh,18.311,F,,Indiana University,2015,2016,65,13.4,3.2,3.6,0.4,0.4,0.3,0.395,0.418,0.267,0.769,1.1,0.059
+51,2015,NBA,1,6,SAC,Willie Cauley-Stein,21.316,F-C,,University of Kentucky,2016,2016,23,17.7,5.1,4.9,0.3,0.5,1,0.623,0.623,,0.512,1.1,0.133
+52,2015,NBA,1,9,CHO,Frank Kaminsky,22.087,F-C,,University of Wisconsin,2016,2016,36,20.3,7.1,3.6,1.3,0.4,0.6,0.385,0.429,0.314,0.761,1.1,0.075
+53,2013,NBA,2,38,WAS,Nate Wolters,22.049,G,,South Dakota State University,2014,2015,79,19.7,5.8,2.3,2.6,0.5,0.2,0.426,0.456,0.261,0.635,1,0.03
+54,2013,NBA,2,55,MEM,Joffrey Lauvergne,21.276,F,,,2015,2016,45,14.4,6,4.3,0.9,0.3,0.3,0.449,0.473,0.325,0.755,1,0.075
+55,2014,NBA,1,11,DEN,Doug McDermott,22.18,F,,Creighton University,2015,2016,70,14.8,5.5,1.7,0.4,0.1,0.1,0.429,0.451,0.399,0.714,1,0.048
+56,2014,NBA,1,26,MIA,P.J. Hairston,21.189,G-F,,University of North Carolina,2015,2016,79,16.8,5.8,2.3,0.6,0.4,0.2,0.335,0.374,0.313,0.846,1,0.035
+57,2015,NBA,1,13,PHO,Devin Booker,18.242,G,,University of Kentucky,2016,2016,33,18.1,7.6,1.8,1.1,0.5,0.1,0.477,0.485,0.456,0.784,1,0.077
+58,2015,NBA,1,23,POR,Rondae Hollis-Jefferson,20.178,F,,University of Arizona,2016,2016,19,22.1,5.2,6.1,1.4,1.4,0.4,0.481,0.5,0.2,0.667,0.9,0.101
+59,2014,NBA,2,60,SAS,Cory Jefferson,23.188,F,,Baylor University,2015,2016,56,10,3.5,2.8,0.3,0.2,0.4,0.453,0.485,0.125,0.554,0.8,0.071
+60,2015,NBA,1,3,PHI,Jahlil Okafor,19.197,C,,Duke University,2016,2016,36,30.8,17.4,7.5,1.2,0.4,1.1,0.478,0.481,0,0.701,0.8,0.036
+61,2015,NBA,1,14,OKC,Cameron Payne,20.326,G,,Murray State University,2016,2016,22,9,4.5,1.3,1.5,0.5,0.1,0.476,0.491,0.452,0.833,0.8,0.2
+62,2013,NBA,1,29,OKC,Archie Goodwin,18.319,G,,University of Kentucky,2014,2016,112,11.4,4.7,1.8,0.8,0.4,0.2,0.431,0.486,0.213,0.679,0.7,0.027
+63,2014,NBA,1,24,CHH,Shabazz Napier,22.353,G,,University of Connecticut,2015,2016,84,16.9,4.8,1.7,2.3,0.7,0.1,0.364,0.383,0.344,0.793,0.6,0.019
+64,2014,NBA,2,40,MIN,Glenn Robinson III,20.174,G-F,,University of Michigan,2015,2016,57,8.6,2.8,1.3,0.3,0.2,0.1,0.44,0.495,0.297,0.646,0.6,0.06
+65,2015,NBA,1,8,DET,Stanley Johnson,19.031,F,,University of Arizona,2016,2016,37,22.3,8.1,4,1.3,0.7,0.1,0.377,0.41,0.31,0.756,0.6,0.038
+66,2015,NBA,1,11,IND,Myles Turner,19.097,F-C,,University of Texas at Austin,2016,2016,15,14.5,5.6,3.6,0.3,0.2,1,0.485,0.485,,0.692,0.6,0.127
+67,2013,NBA,1,19,CLE,Sergey Karasev,19.249,G-F,,,2014,2016,68,11.6,3,1.3,0.8,0.4,0,0.383,0.475,0.266,0.808,0.5,0.028
+68,2013,NBA,2,47,ATL,Raul Neto,21.044,G,,,2016,2016,36,18.6,5.5,1.5,2.3,1,0.1,0.41,0.43,0.378,0.833,0.5,0.034
+69,2014,NBA,2,32,PHI,K.J. McDaniels,21.142,G-F,,Clemson University,2015,2016,73,19.2,6.9,2.9,1,0.6,1,0.392,0.448,0.287,0.746,0.5,0.017
+70,2014,NBA,2,35,UTA,Jarnell Stokes,20.175,F-C,,University of Tennessee,2015,2016,21,6.2,2.7,1.7,0.2,0.2,0.2,0.568,0.568,,0.536,0.5,0.185
+71,2015,NBA,1,10,MIA,Justise Winslow,19.095,F,,Duke University,2016,2016,34,26.7,5.4,4.6,1.2,0.7,0.4,0.393,0.491,0.222,0.66,0.5,0.027
+72,2013,NBA,1,16,BOS,Lucas Nogueira,20.341,C,,,2015,2016,19,7.1,2.3,1.7,0.2,0.5,0.2,0.613,0.633,0,0.545,0.4,0.159
+73,2014,NBA,1,17,BOS,James Young,18.319,G-F,,University of Kentucky,2015,2016,47,10.3,2.7,1.3,0.4,0.3,0.1,0.341,0.535,0.244,0.515,0.4,0.039
+74,2014,NBA,1,19,CHI,Gary Harris,19.29,G,,Michigan State University,2015,2016,87,19.3,6.1,1.7,1,0.9,0.2,0.391,0.464,0.294,0.744,0.4,0.01
+75,2014,NBA,1,22,MEM,Jordan Adams,19.358,G,,University of California Los Angeles,2015,2016,32,8.2,3.2,0.9,0.6,0.6,0.2,0.402,0.409,0.385,0.607,0.4,0.071
+76,2014,NBA,2,44,MIN,Markel Brown,22.154,G,,Oklahoma State University,2015,2016,68,14.8,4,1.9,0.8,0.6,0.2,0.347,0.397,0.253,0.797,0.4,0.02
+77,2015,NBA,1,5,ORL,Mario Hezonja,20.125,F-G,,,2016,2016,35,13.5,4.4,1.7,1,0.2,0.1,0.437,0.457,0.411,0.913,0.4,0.037
+78,2015,NBA,1,15,ATL,Kelly Oubre,19.203,F,,University of Kansas,2016,2016,28,13.3,4.6,2.5,0.4,0.3,0.1,0.439,0.46,0.409,0.692,0.4,0.056
+79,2015,NBA,1,22,CHI,Bobby Portis,20.14,F,,University of Arkansas,2016,2016,15,16.5,7.7,5.3,0.7,0.6,0.4,0.467,0.489,0.333,0.733,0.4,0.077
+80,2014,NBA,1,7,LAL,Julius Randle,19.214,F,,University of Kentucky,2015,2016,39,26.1,10.4,9.2,1.6,0.7,0.3,0.402,0.408,0.278,0.677,0.3,0.016
+81,2015,NBA,1,12,UTA,Trey Lyles,19.237,F,,University of Kentucky,2016,2016,35,16.8,3.6,4.1,0.7,0.2,0.2,0.383,0.382,0.391,0.652,0.3,0.028
+82,2015,NBA,2,32,HOU,Montrezl Harrell,21.155,F,,University of Louisville,2016,2016,20,10.4,3.3,1.7,0.3,0.3,0.3,0.634,0.634,,0.52,0.3,0.078
+83,2013,NBA,2,37,DET,Tony Mitchell,21.086,F,,University of North Texas,2014,2014,21,3.8,1,1.2,0.1,0.3,0.1,0.417,0.364,1,0.579,0.2,0.151
+84,2014,NBA,1,8,SAC,Nik Stauskas,20.267,G,,University of Michigan,2015,2016,110,18.1,5.3,1.6,1.2,0.4,0.3,0.36,0.415,0.317,0.782,0.2,0.006
+85,2014,NBA,2,33,CLE,Joe Harris,22.298,G,,University of Virginia,2015,2016,56,9.1,2.5,0.8,0.5,0.1,0,0.395,0.472,0.364,0.6,0.2,0.017
+86,2014,NBA,2,38,DET,Spencer Dinwiddie,21.086,G,,University of Colorado,2015,2016,43,13.2,4.3,1.3,2.7,0.5,0.1,0.32,0.397,0.181,0.792,0.2,0.021
+87,2015,NBA,1,28,BOS,R.J. Hunter,21.249,G,,Georgia State University,2016,2016,21,11.5,3.2,1.4,0.4,0.6,0.2,0.347,0.52,0.255,0.833,0.2,0.05
+88,2013,NBA,1,25,LAC,Reggie Bullock,22.109,G-F,,University of North Carolina,2014,2016,96,8.5,2,1.2,0.2,0.2,0.1,0.324,0.37,0.295,0.762,0.1,0.005
+89,2014,NBA,2,43,ATL,Walter Tavares,22.101,C,,,2016,2016,7,7.7,2.7,2.1,0.1,0.1,0.7,0.533,0.533,,0.375,0.1,0.058
+90,2014,NBA,2,48,MIL,Lamar Patterson,22.324,G-F,,University of Pittsburgh,2016,2016,29,12.8,2.7,1.7,1.3,0.2,0.1,0.366,0.536,0.256,0.7,0.1,0.018
+91,2015,NBA,2,33,BOS,Jordan Mickey,20.356,F,,Louisiana State University,2016,2016,3,2,2.3,1,0.3,0,0.3,0.667,0.667,,1,0.1,0.936
+92,2013,NBA,2,33,CLE,Carrick Felix,22.32,G,,Arizona State University,2014,2014,7,5.4,2.7,0.9,0.6,0,0,0.5,0.556,0.4,0.75,0,0.057
+93,2013,NBA,2,41,MEM,Jamaal Franklin,21.347,G,,San Diego State University,2014,2015,24,7.3,1.8,1,0.4,0.2,0.1,0.415,0.393,0.462,1,0,-0.006
+94,2013,NBA,2,46,UTA,Erick Green,22.055,G,,Virginia Polytechnic Institute and State University,2015,2016,46,9.1,3.2,0.7,0.9,0.3,0,0.374,0.409,0.292,0.833,0,-0.001
+95,2013,NBA,2,52,MIN,Lorenzo Brown,22.311,G,,North Carolina State University,2014,2015,55,14.1,3.4,1.8,2.4,0.7,0.2,0.375,0.46,0.155,0.656,0,-0.002
+96,2014,NBA,1,28,LAC,C.J. Wilcox,23.184,G,,University of Washington,2015,2016,22,4.6,1.9,0.3,0.4,0.1,0,0.421,0.474,0.368,1,0,-0.024
+97,2015,NBA,1,18,HOU,Sam Dekker,21.055,F,,University of Wisconsin,2016,2016,3,2,0,0.3,0,0.3,0,,,,,0,0.112
+98,2015,NBA,2,38,DET,Darrun Hilliard,22.078,G,,Villanova University,2016,2016,12,6.7,2.9,0.8,0.2,0.1,0,0.297,0.28,0.333,0.818,0,-0.009
+99,2015,NBA,2,40,MIA,Josh Richardson,21.288,G,,University of Tennessee,2016,2016,14,8.9,1.6,1.1,0.6,0.1,0.1,0.3,0.2,0.4,0.6,0,0.015
+100,2015,NBA,2,43,IND,Joseph Young,23.003,G,,University of Oregon,2016,2016,13,5.2,1.8,0.8,0.6,0.2,0,0.296,0.333,0.167,0.778,0,-0.025
+101,2015,NBA,2,56,NOP,Branden Dawson,22.149,F,,Michigan State University,2016,2016,2,6.5,1,1.5,0,0,0.5,0.333,0.333,,,0,0.062
+102,2013,NBA,1,1,CLE,Anthony Bennett,20.11,F,,University of Nevada Las Vegas,2014,2016,119,13.6,4.5,3.3,0.5,0.4,0.2,0.388,0.414,0.253,0.652,-0.1,-0.002
+103,2013,NBA,2,40,POR,Grant Jerrett,19.359,F,,University of Arizona,2015,2015,8,6.4,2,1.1,0.4,0.3,0.3,0.269,0.545,0.067,1,-0.1,-0.128
+104,2013,NBA,2,49,CHI,Erik Murphy,22.25,F,,University of Florida,2014,2014,24,2.6,0.3,0.3,0.1,0,0.2,0.231,0.3,0,,-0.1,-0.055
+105,2014,NBA,1,5,UTA,Dante Exum,18.353,G,,,2015,2015,82,22.2,4.8,1.6,2.4,0.5,0.2,0.349,0.408,0.314,0.625,-0.1,-0.003
+106,2014,NBA,2,31,MIL,Damien Inglis,19.042,F,,,2016,2016,8,5.3,1,1.1,0.3,0.3,0,0.25,0.333,0.2,0.75,-0.1,-0.082
+107,2014,NBA,2,42,HOU,Nick Johnson,21.191,G,,University of Arizona,2015,2015,28,9.4,2.6,1.4,0.4,0.3,0.1,0.347,0.389,0.238,0.68,-0.1,-0.02
+108,2014,NBA,2,49,CHI,Cameron Bairstow,23.207,F-C,,University of New Mexico,2015,2016,25,3.6,0.7,0.7,0,0.1,0,0.269,0.292,0,0.8,-0.1,-0.031
+109,2015,NBA,1,2,LAL,D'Angelo Russell,19.127,G,,Ohio State University,2016,2016,37,27.1,11.7,3.9,3.4,1.2,0.2,0.405,0.464,0.318,0.686,-0.1,-0.005
+110,2015,NBA,1,20,TOR,Delon Wright,23.065,G,,University of Utah,2016,2016,8,2.9,0.3,0.8,0.5,0,0,0.125,0.143,0,,-0.1,-0.19
+111,2015,NBA,1,21,DAL,Justin Anderson,21.223,G,,University of Virginia,2016,2016,21,6.7,2.2,1.1,0.2,0.1,0.1,0.409,0.565,0.238,0.5,-0.1,-0.018
+112,2015,NBA,1,24,CLE,Tyus Jones,19.05,G,,Duke University,2016,2016,9,10.9,3,1.7,1.6,0.4,0.1,0.355,0.333,0.5,0.6,-0.1,-0.041
+113,2015,NBA,1,25,MEM,Jarell Martin,21.037,F,,Louisiana State University,2016,2016,2,4.5,1,0,0,0,0,0.2,0.2,,,-0.1,-0.338
+114,2015,NBA,2,41,BRK,Pat Connaughton,22.175,G,,University of Notre Dame,2016,2016,13,2.9,0.8,0.5,0.1,0.2,0,0.25,0.143,0.4,1,-0.1,-0.142
+115,2015,NBA,2,46,MIL,Norman Powell,22.036,G,,University of California Los Angeles,2016,2016,15,5.1,1.4,1.1,0.2,0.4,0,0.313,0.346,0.167,0,-0.1,-0.064
+116,2013,NBA,2,35,PHI,Glen Rice,22.183,G,,Georgia Institute of Technology,2014,2015,16,9.5,2.7,1.5,0.6,0.4,0.1,0.269,0.286,0.25,0.692,-0.2,-0.065
+117,2013,NBA,2,56,DET,Peyton Siva,22.252,G,,University of Louisville,2014,2014,24,9.3,2.3,0.6,1.4,0.4,0,0.316,0.344,0.28,0.733,-0.2,-0.032
+118,2014,NBA,1,20,TOR,Bruno Caboclo,18.283,F,,,2015,2016,10,2.5,1,0.3,0,0.1,0.1,0.308,0.2,0.667,,-0.2,-0.321
+119,2014,NBA,2,36,MIL,Johnny O'Bryant III,21.03,F-C,,Louisiana State University,2015,2016,69,12.9,3.3,2.5,0.6,0.3,0.1,0.404,0.402,1,0.556,-0.2,-0.01
+120,2014,NBA,2,47,PHI,Russ Smith,23.074,G,,University of Louisville,2015,2016,27,4.9,2,0.6,0.7,0.3,0,0.319,0.387,0.188,0.769,-0.2,-0.062
+121,2014,NBA,2,56,DEN,Roy Devyn Marble,21.283,G-F,,University of Iowa,2015,2016,22,10.1,1.8,1.5,0.8,0.5,0.1,0.306,0.44,0.167,0.294,-0.2,-0.047
+122,2015,NBA,1,19,WAS,Jerian Grant,22.264,G,,University of Notre Dame,2016,2016,36,15.8,4.7,1.8,2.2,0.5,0.1,0.345,0.407,0.128,0.849,-0.2,-0.015
+123,2014,NBA,1,13,MIN,Zach LaVine,19.113,G,,University of California Los Angeles,2015,2016,115,24.3,10.9,2.9,3.4,0.7,0.1,0.417,0.448,0.327,0.844,-0.3,-0.005
+124,2013,NBA,1,30,PHO,Nemanja Nedovic,22.017,G,,,2014,2014,24,5.9,1.1,0.6,0.5,0,0,0.205,0.238,0.167,0.875,-0.4,-0.132
+125,2014,NBA,2,34,NYK,Cleanthony Early,23.076,F,,Wichita State University,2015,2016,49,13.9,4.4,2,0.8,0.5,0.3,0.359,0.424,0.261,0.75,-0.4,-0.026
+126,2015,NBA,1,16,BOS,Terry Rozier,21.105,G,,University of Louisville,2016,2016,16,6,1.7,1,0.6,0,0,0.261,0.286,0.182,1,-0.4,-0.177
+127,2015,NBA,1,17,MIL,Rashad Vaughn,18.317,G,,University of Nevada Las Vegas,2016,2016,31,10.3,2.3,1.3,0.4,0.3,0.2,0.294,0.209,0.381,0.857,-0.4,-0.06
+128,2015,NBA,2,34,LAL,Anthony Brown,22.263,F,,Stanford University,2016,2016,14,15.9,2.4,1.9,0.6,0.5,0.3,0.229,0.28,0.174,1,-0.4,-0.081
+129,2014,NBA,1,18,PHO,Tyler Ennis,19.311,G,,Syracuse University,2015,2016,49,11.9,3.6,1.1,1.8,0.4,0.1,0.374,0.408,0.286,0.706,-0.5,-0.039
+130,2013,NBA,2,43,MIL,Ricky Ledo,20.295,G,,Providence College,2014,2015,28,9.9,3.9,1.4,0.8,0.3,0,0.336,0.321,0.371,0.769,-0.6,-0.096
+131,2014,NBA,1,15,ATL,Adreian Payne,23.133,F,,Michigan State University,2015,2016,60,16.9,4.8,3.7,0.7,0.5,0.3,0.406,0.418,0.3,0.667,-0.6,-0.028
+132,2015,NBA,1,7,DEN,Emmanuel Mudiay,19.116,G,,,2016,2016,24,29.5,10.7,3.5,5.8,1,0.7,0.312,0.332,0.25,0.682,-1.9,-0.128
+133,2013,NBA,1,28,SAS,Livio Jean-Charles,19.236,F,,,,,,,,,,,,,,,,,
+134,2013,NBA,2,32,OKC,Alex Abrines,19.335,G,,,,,,,,,,,,,,,,,
+135,2013,NBA,2,42,PHI,Pierre Jackson,21.308,G,,Baylor University,,,,,,,,,,,,,,,
+136,2013,NBA,2,45,POR,Marko Todorovic,21.074,F,,,,,,,,,,,,,,,,,
+137,2013,NBA,2,51,ORL,Romero Osby,,,,University of Oklahoma,,,,,,,,,,,,,,,
+138,2013,NBA,2,53,IND,Colton Iverson,24.004,C,,Colorado State University,,,,,,,,,,,,,,,
+139,2013,NBA,2,54,WAS,Arsalan Kazemi,23.072,F,,University of Oregon,,,,,,,,,,,,,,,
+140,2013,NBA,2,57,PHO,Alex Oriakhi,23.012,F,,University of Missouri,,,,,,,,,,,,,,,
+141,2013,NBA,2,58,SAS,Deshaun Thomas,21.308,F,,Ohio State University,,,,,,,,,,,,,,,
+142,2013,NBA,2,59,MIN,Bojan Dubljevic,21.252,F-C,,,,,,,,,,,,,,,,,
+143,2013,NBA,2,60,MEM,Janis Timma,21,F,,,,,,,,,,,,,,,,,
+144,2014,NBA,1,3,PHI,Joel Embiid,20.107,C,,University of Kansas,,,,,,,,,,,,,,,
+145,2014,NBA,1,12,ORL,Dario Saric,20.084,F,,,,,,,,,,,,,,,,,
+146,2014,NBA,1,27,PHO,Bogdan Bogdanovic,21.317,G,,,,,,,,,,,,,,,,,
+147,2014,NBA,1,29,OKC,Josh Huestis,22.195,F,,Stanford University,,,,,,,,,,,,,,,
+148,2014,NBA,2,37,TOR,DeAndre Daniels,22.077,F,,University of Connecticut,,,,,,,,,,,,,,,
+149,2014,NBA,2,50,PHO,Alec Brown,21.343,F-C,,University of Wisconsin-Green Bay,,,,,,,,,,,,,,,
+150,2014,NBA,2,51,NYK,Thanasis Antetokounmpo,21.349,F,,,,,,,,,,,,,,,,,
+151,2014,NBA,2,52,PHI,Vasilije Micic,20.169,G,,,,,,,,,,,,,,,,,
+152,2014,NBA,2,53,MIN,Alessandro Gentile,21.231,F,,,,,,,,,,,,,,,,,
+153,2014,NBA,2,54,PHI,Nemanja Dangubic,21.079,G,,,,,,,,,,,,,,,,,
+154,2014,NBA,2,55,MIA,Semaj Christon,21.242,G,,Xavier University,,,,,,,,,,,,,,,
+155,2014,NBA,2,57,IND,Louis Labeyrie,22.141,F,,,,,,,,,,,,,,,,,
+156,2014,NBA,2,58,SAS,Jordan McRae,23.096,G,,University of Tennessee,,,,,,,,,,,,,,,
+157,2014,NBA,2,59,TOR,Xavier Thames,23.164,G,,San Diego State University,,,,,,,,,,,,,,,
+158,2015,NBA,1,26,SAS,Nikola Milutinov,20.182,C,,,,,,,,,,,,,,,,,
+159,2015,NBA,1,29,BRK,Chris McCullough,20.145,F,,Syracuse University,,,,,,,,,,,,,,,
+160,2015,NBA,1,30,GSW,Kevon Looney,19.144,F,,University of California Los Angeles,,,,,,,,,,,,,,,
+161,2015,NBA,2,31,MIN,Cedi Osman,20.083,F,,,,,,,,,,,,,,,,,
+162,2015,NBA,2,35,PHI,Willy Hernangomez,21.034,C,,,,,,,,,,,,,,,,,
+163,2015,NBA,2,36,MIN,Rakeem Christmas,23.212,F,,Syracuse University,,,,,,,,,,,,,,,
+164,2015,NBA,2,39,CHO,Juan Pablo Vaulet,19.099,F,,,,,,,,,,,,,,,,,
+165,2015,NBA,2,42,UTA,Olivier Hanlan,22.135,G,,Boston College,,,,,,,,,,,,,,,
+166,2015,NBA,2,44,PHO,Andrew Harrison,20.245,G,,University of Kentucky,,,,,,,,,,,,,,,
+167,2015,NBA,2,45,BOS,Marcus Thornton,22.141,G,,College of William &amp; Mary,,,,,,,,,,,,,,,
+168,2015,NBA,2,47,PHI,Arturas Gudaitis,22.011,C,,,,,,,,,,,,,,,,,
+169,2015,NBA,2,48,OKC,Dakari Johnson,19.281,C,,University of Kentucky,,,,,,,,,,,,,,,
+170,2015,NBA,2,49,WAS,Aaron White,22.293,F,,University of Iowa,,,,,,,,,,,,,,,
+171,2015,NBA,2,50,ATL,Marcus Eriksson,21.207,G,,,,,,,,,,,,,,,,,
+172,2015,NBA,2,51,ORL,Tyler Harvey,21.348,G,,Eastern Washington University,,,,,,,,,,,,,,,
+173,2015,NBA,2,52,DAL,Satnam Singh,19.202,C,,,,,,,,,,,,,,,,,
+174,2015,NBA,2,53,CLE,Sir'Dominic Pointer,23.055,G-F,,St. John's University,,,,,,,,,,,,,,,
+175,2015,NBA,2,54,UTA,Dani Diez,22.084,F,,,,,,,,,,,,,,,,,
+176,2015,NBA,2,55,SAS,Cady Lalanne,23.069,C,,University of Massachusetts Amherst,,,,,,,,,,,,,,,
+177,2015,NBA,2,57,DEN,Nikola Radicevic,21.066,G,,,,,,,,,,,,,,,,,
+178,2015,NBA,2,58,PHI,J.P. Tokoto,21.288,G-F,,University of North Carolina,,,,,,,,,,,,,,,
+179,2015,NBA,2,59,ATL,Dimitrios Agravanis,20.192,F-C,,,,,,,,,,,,,,,,,
+180,2015,NBA,2,60,PHI,Luka Mitrovic,22.101,F,,,,,,,,,,,,,,,,,
