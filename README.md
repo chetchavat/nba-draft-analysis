@@ -1,7 +1,7 @@
 # nba-draft-analysis
 This repo contains the code and analysis for my General Assembly Data Science course final project.
 
-The objective of this analysis is to try to predict what features determine a player's success in getting drafted into the NBA.
+The objective of this analysis is to try to predict if a player is drafted in the NBA draft.
 
 # Sources
 Inital data for this analysis came from:
